@@ -1,17 +1,15 @@
-# Topsis-Pretrained-model-text-conversational
+# topsis-pretrained-102117089
 
 ## Overview
-In the era of deep learning, pretrained models have become indispensable tools across various domains, from natural language processing to computer vision. However, selecting the most suitable pretrained model for a specific task remains a challenging endeavor due to the plethora of available options and the lack of standardized evaluation methodologies.
+Selecting the most suitable pretrained model for a specific task using Topsis.
 
-
-# Result:
+## Result:
 
 `102117089-result.csv`
 
+![Topsis Result](https://raw.githubusercontent.com/vteam27/topsis-pretrained-102117089/main/Topsis%20Result.png)
 
-## Primary Features
-
-# Metrics Included:
+### Metrics Included:
 
 1. **Accuracy:** This metric gauges the ratio of correct predictions to the total number of predictions, serving as a foundational measure for assessing both classification and regression models.
 
